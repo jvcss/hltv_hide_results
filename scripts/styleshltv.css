@@ -1,0 +1,36 @@
+.result-score {
+  visibility: hidden;
+}
+.result-score:hover{
+  visibility: visible !important;
+}
+
+.results-team-score/*matches screen*/ {
+  visibility: hidden !important;
+}
+.won /*matches screen*/ {
+  visibility: hidden !important;
+}
+.lost /*matches screen*/ {
+  visibility: hidden !important;
+}
+.mapScore {
+  visibility: hidden !important;
+}
+.matchTeamScore {
+  visibility: hidden !important;
+}
+.livescore {
+  visibility: hidden !important;
+}
+.results-center-half-score {
+  visibility: hidden !important;
+}
+/*
+.score-won{
+  visibility: hidden !important;
+}
+.score-lost{
+  visibility: hidden !important;
+}
+*/
